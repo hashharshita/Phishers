@@ -1,0 +1,1 @@
+web: gunicorn phishing:app --log-file -
