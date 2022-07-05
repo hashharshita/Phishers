@@ -1,0 +1,10 @@
+Phising url :-
+1)Project video
+https://www.youtube.com/watch?v=GzLOB09ippA
+2)How to use flask and run the application
+https://www.youtube.com/watch?v=UbCWoMf80PY&list=WL&index=132&t=614s
+Steps 
+cd path
+python app.py
+3)how to make app on heroku
+https://www.youtube.com/watch?v=x8hVoalU0MA&list=WL&index=130&t=196s
