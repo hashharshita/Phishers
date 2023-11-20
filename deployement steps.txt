@@ -6,5 +6,5 @@ https://www.youtube.com/watch?v=UbCWoMf80PY&list=WL&index=132&t=614s
 Steps 
 cd path
 python app.py
-3)how to make app on heroku
-https://www.youtube.com/watch?v=x8hVoalU0MA&list=WL&index=130&t=196s
+3)how to make app on Railway
+https://www.youtube.com/watch?v=WzxEHzb2NzM
